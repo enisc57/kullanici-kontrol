@@ -1,4 +1,30 @@
 [
-  {"kullanici": "admin", "sifre": "İDtm1211*", "durum": "aktif"},
-  {"kullanici": "mehmet", "sifre": "abcd", "durum": "pasif"}
+  {
+    "kullanici": "admin",
+    "sifre": "İDtm1211*",
+    "durum": "aktif",
+    "admin": true,
+    "kayit_tarihi": "2023-01-01T10:00:00"
+  },
+  {
+    "kullanici": "testuser",
+    "sifre": "password12357",
+    "durum": "aktif",
+    "admin": false,
+    "kayit_tarihi": "2023-01-02T11:30:00"
+  },
+  {
+    "kullanici": "denemeuser",
+    "sifre": "deneme123",
+    "durum": "aktif",
+    "admin": false,
+    "kayit_tarihi": "2025-06-28T15:00:00"
+  },
+    {
+    "kullanici": "bilalc",
+    "sifre": "5757",
+    "durum": "aktif",
+    "admin": true,
+    "kayit_tarihi": "2025-06-28T15:00:00"
+  }
 ]
