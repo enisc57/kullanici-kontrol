@@ -1,21 +1,30 @@
 [
   {
-    "kullanici": "testuser",
-    "sifre": "testpass",
-    "durum": "aktif",
-    "admin": false,
-    "kayit_tarihi": "2024-01-01T10:00:00",
-    "lisans_tipi": "yearly",
-    "ilk_giris_tarihi": "2024-01-10T15:30:00",
-    "son_giris_tarihi": "2024-07-08T23:00:00",
-    "pc_kimlikleri": ["00:11:22:33:44:55", "AA:BB:CC:DD:EE:FF"]
-  },
-  {
     "kullanici": "admin",
-    "sifre": "İDtm1211*",
+    "sifre": "d12a8740e21a2c5a0134f5979d426a111a51c911b327b7f426217462a71f76d2",
     "durum": "aktif",
     "admin": true,
-    "lisans_tipi": "unlimited",
-    "pc_kimlikleri": []
+    "kayit_tarihi": "2023-01-01T10:00:00"
+  },
+  {
+    "kullanici": "testuser",
+    "sifre": "password12357",
+    "durum": "aktif",
+    "admin": false,
+    "kayit_tarihi": "2023-01-02T11:30:00"
+  },
+  {
+    "kullanici": "denemeuser",
+    "sifre": "deneme123",
+    "durum": "aktif",
+    "admin": false,
+    "kayit_tarihi": "2025-06-28T15:00:00"
+  },
+    {
+    "kullanici": "bilalc",
+    "sifre": "5757",
+    "durum": "aktif",
+    "admin": true,
+    "kayit_tarihi": "2025-06-28T15:00:00"
   }
 ]
