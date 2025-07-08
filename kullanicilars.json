@@ -1,21 +1,21 @@
 [
   {
     "kullanici": "testuser",
-    "sifre": "testpass", // VEYA "sifre": "hashedtestpass" (tercih edilir)
+    "sifre": "testpass",
     "durum": "aktif",
     "admin": false,
     "kayit_tarihi": "2024-01-01T10:00:00",
-    "lisans_tipi": "yearly", // "daily", "yearly", "unlimited" olabilir
-    "ilk_giris_tarihi": "2024-01-10T15:30:00", // ISO formatında
-    "son_giris_tarihi": "2024-07-08T23:00:00", // ISO formatında
-    "pc_kimlikleri": ["00:11:22:33:44:55", "AA:BB:CC:DD:EE:FF"] // MAC adresleri listesi
+    "lisans_tipi": "yearly",
+    "ilk_giris_tarihi": "2024-01-10T15:30:00",
+    "son_giris_tarihi": "2024-07-08T23:00:00",
+    "pc_kimlikleri": ["00:11:22:33:44:55", "AA:BB:CC:DD:EE:FF"]
   },
   {
     "kullanici": "admin",
-    "sifre": "İDtm1211*", // ADMIN ŞİFRESİ BURADA DÜZ METİN OLMAMALI, HASH'LENMELİ!
+    "sifre": "İDtm1211*",
     "durum": "aktif",
     "admin": true,
-    "lisans_tipi": "unlimited", // Admin için sınırsız
-    "pc_kimlikleri": [] // veya boş bırakılabilir
+    "lisans_tipi": "unlimited",
+    "pc_kimlikleri": []
   }
 ]
