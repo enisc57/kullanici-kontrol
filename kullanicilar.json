@@ -26,5 +26,12 @@
     "durum": "aktif",
     "admin": true,
     "kayit_tarihi": "2025-06-28T15:00:00"
+  },
+      {
+    "kullanici": "hakan",
+    "sifre": "6363",
+    "durum": "aktif",
+    "admin": true,
+    "kayit_tarihi": "2025-06-28T15:00:00"
   }
 ]
